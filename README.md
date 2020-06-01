@@ -1,2 +1,2 @@
 # testrepo
-repo for terting github
+repo for testing github
